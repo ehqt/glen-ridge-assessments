@@ -1,2 +1,0 @@
-Place the Rutgers MOD-IV extract here as mod_iv_data.csv
-(ingest.py globs mod_iv_*.csv). Not committed — it's large.
