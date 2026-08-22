@@ -1,0 +1,3 @@
+The app reads glen-ridge.json.gz from this directory.
+Generate it with ingest.py, then:
+    cp ../data/published/glen-ridge.json.gz public/data/
