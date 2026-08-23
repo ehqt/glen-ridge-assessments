@@ -56,9 +56,13 @@ export default function AboutView() {
         are published, the levies are published, and the state's own valuation
         figures are published. They are simply spread across three agencies, in
         formats that change from decade to decade, and nobody had put them
-        together for one small borough. So this site does that.
+        together for one small borough.
       </p>
 
+      <p>
+        For questions or comments about this site, email glen-ridge-assessments@gmail.com.
+      </p>
+	  
       <h3 className="prose-sub">What is here</h3>
       <dl className="about-list">
         <div>
